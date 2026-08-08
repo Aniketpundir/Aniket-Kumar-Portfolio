@@ -4,7 +4,7 @@ import { HiOutlineAcademicCap } from "react-icons/hi2";
 import { education, certifications } from "../data/resumeData";
 
 const highlights = [
-  "Shipped production features across two internships (Bluestock Fintech, Velora Global Ventures)",
+  "Shipped production features across two internships and Job (Bluestock Fintech, Velora Global Ventures)",
   "Built and shipped 6+ independent front-end and full-stack projects",
   "Comfortable owning a feature end-to-end: UI, API, and database",
 ];

@@ -66,7 +66,7 @@ export default function Contact() {
             Let's build something <span className="gradient-text">great</span>
           </h2>
           <p className="mx-auto mt-4 max-w-xl text-muted">
-            Open to freelance work, internships, and full-time roles. The fastest
+            Open to freelance work and full-time roles. The fastest
             way to reach me is WhatsApp.
           </p>
         </motion.div>

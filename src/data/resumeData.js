@@ -79,6 +79,32 @@ export const skills = [
 
 export const projects = [
   {
+    id: "caravan",
+    name: "Caravan",
+    subtitle: "Full-Stack Car Rental Platform",
+    description:
+      "A full-stack MERN car rental platform that allows users to browse, search, and book vehicles with a seamless booking experience. The application features secure authentication, responsive design, and efficient backend APIs for managing cars, bookings, and users.",
+    tech: [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JWT Authentication",
+      "Tailwind CSS"
+    ],
+    features: [
+      "User registration and secure JWT authentication",
+      "Browse and search available cars",
+      "Online car booking and booking management",
+      "Admin dashboard for managing cars and bookings",
+      "Responsive UI optimized for desktop and mobile",
+      "RESTful APIs with MongoDB integration"
+    ],
+    image: "caravan",
+    github: "https://github.com/Aniketpundir/caravans",
+    demo: "https://caravanstoragecentralcoast.com.au/"
+  },
+  {
     id: "zaykaxpress",
     name: "ZaykaXpress",
     subtitle: "Full-Stack Food Delivery Platform",
@@ -92,8 +118,8 @@ export const projects = [
       "Responsive, user-friendly ordering flow",
     ],
     image: "zaykaxpress",
-    github: "https://github.com/Aniketpundir",
-    demo: "#",
+    github: "https://github.com/Aniketpundir/foodOrederwithzayka",
+    demo: "https://zaykaxpress.netlify.app/",
   },
   {
     id: "trippy-travel",
@@ -109,8 +135,8 @@ export const projects = [
       "Fully responsive across devices",
     ],
     image: "trippy-travel",
-    github: "https://github.com/Aniketpundir",
-    demo: "#",
+    github: "https://github.com/Aniketpundir/Trippy-Travel",
+    demo: "https://travel-with-trippy.netlify.app/",
   },
   {
     id: "shopper-ecommerce",
@@ -126,8 +152,8 @@ export const projects = [
       "Seamless cross-device UX",
     ],
     image: "shopper-ecommerce",
-    github: "https://github.com/Aniketpundir",
-    demo: "#",
+    github: "https://github.com/Aniketpundir/shopper-Ecommerce",
+    demo: "https://shoopper.netlify.app/",
   },
   {
     id: "gemini-clone",
@@ -143,8 +169,8 @@ export const projects = [
       "Intelligent, user-friendly interface",
     ],
     image: "gemini-clone",
-    github: "https://github.com/Aniketpundir",
-    demo: "#",
+    github: "https://github.com/Aniketpundir/Gemini_Clone",
+    demo: "https://googlee-geminii-clonee.netlify.app/",
   },
   {
     id: "card-matching",
@@ -160,25 +186,8 @@ export const projects = [
       "Interactive flip animations",
     ],
     image: "card-matching",
-    github: "https://github.com/Aniketpundir",
-    demo: "#",
-  },
-  {
-    id: "rock-paper-scissors",
-    name: "Rock Paper Scissors",
-    subtitle: "Browser Game with Live Scoring",
-    description:
-      "A browser-based game using HTML, CSS, and JavaScript that lets users play against the computer with real-time score tracking and smooth DOM updates.",
-    tech: ["HTML5", "CSS3", "JavaScript"],
-    features: [
-      "Randomized computer move logic",
-      "Real-time score tracking",
-      "Instant DOM updates without reload",
-      "Responsive, interactive gameplay",
-    ],
-    image: "rock-paper-scissors",
-    github: "https://github.com/Aniketpundir",
-    demo: "#",
+    github: "https://github.com/Aniketpundir/cards-matching-games",
+    demo: "https://card-matching-games.netlify.app/",
   },
 ];
 
