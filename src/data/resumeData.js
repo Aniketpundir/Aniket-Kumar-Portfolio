@@ -195,7 +195,7 @@ export const experience = [
   {
     role: "Web Developer & Designer",
     company: "Velora Global Ventures",
-    period: "Mar 2026 – Present",
+    period: "Sep 2025 – Present",
     points: [
       "Developed and deployed SEO-optimized, responsive websites using React.js and modern CSS frameworks, improving page load speed by optimizing assets and minimizing render-blocking resources.",
       "Designed intuitive UI/UX layouts and translated Figma/design concepts into pixel-perfect, functional web interfaces.",
